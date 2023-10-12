@@ -5,6 +5,7 @@ public class App {
         System.out.println("Hello World!");
         System.out.println("Another one commit");
         System.out.println("Ура у меня автомат");
+        System.out.println("Попробуем еще раз");
     }
 
 
